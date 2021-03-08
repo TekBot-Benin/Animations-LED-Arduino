@@ -12,3 +12,4 @@ Main Contributor:
     [Rochdy](https://github.com/Rochdy-max)
 
 You can get all the TinkerCard board [here](assets/Shiny_Luulia-Albar.brd)
+PS: About the TinkerCard board, you can download and load it in the online [TinkerCard platform](https://www.tinkercad.com/)
