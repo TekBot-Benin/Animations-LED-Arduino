@@ -10,3 +10,5 @@ It is an arduino code that allows you to make animations with LEDs.
 
 Main Contributor:
     [Rochdy](https://github.com/Rochdy-max)
+
+You can get all the TinkerCard board [here](assets/Shiny_Luulia-Albar.brd)
