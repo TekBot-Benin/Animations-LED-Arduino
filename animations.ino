@@ -1,3 +1,5 @@
+//TODO: Refactoring according with doxygen-like comment
+
 int var[6] = {2, 3, 4, 5, 6, 7};     /* An array containing all numbers of ports which will be used */
 
 int size = 6;     /* Numbers of elements in the array 'var' */
